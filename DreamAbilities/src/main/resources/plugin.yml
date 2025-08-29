@@ -1,0 +1,4 @@
+name: DreamAbilities
+version: '1.0.0-SNAPSHOT'
+main: com.dreamfirestudios.dreamAbilities.DreamAbilities
+api-version: '1.21'
